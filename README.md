@@ -1,6 +1,8 @@
 # generator
 Random character generator that uses golang's crypto/rand package.
 
+[godoc](https://godoc.org/github.com/tomogoma/generator)
+
 ## Usage
 
 ### Get the source
